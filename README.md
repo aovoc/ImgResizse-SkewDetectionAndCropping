@@ -3,7 +3,7 @@
 驾驶证倾斜矫正模块
 
 ### 输入输出
-输入文件是res/driving_license_origin文件夹下的jpg格式图片；输出文件和输入文件同名，在源图片所在文件夹的子文件夹result下
+输入文件是res/driving_license_origin文件夹下的jpg格式图片；输出文件和输入文件同名，在源图片所在文件夹的子文件夹result下。
 
 ### 使用方法：     
 
